@@ -1,11 +1,13 @@
 {
     "name": "t4t-extension", 
     "license": "GPLv3", 
-    "author": "Daniel Lombraña González", 
+    "author": "Citizen Cyberscience Centre (http://www.citizencyberscience.net/)", 
     "version": "0.1", 
+    "contributors": ["Daniel Lombraña González"],
     "fullName": "Test4Theory Stats Checker", 
     "id": "jid1-dHbLAkIJbukFVA", 
     "description": "a basic add-on to notify your stats from Test4Theory",
+    "homepage": "http://lhcathome2.cern.ch/",
     "preferences": [{
         "name": "BoincId",
         "title": "T4T BOINC ID",
