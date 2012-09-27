@@ -1,0 +1,23 @@
+{
+    "name": "t4t-extension", 
+    "license": "GPLv3", 
+    "author": "Daniel Lombraña González", 
+    "version": "0.1", 
+    "fullName": "Test4Theory Stats Checker", 
+    "id": "jid1-dHbLAkIJbukFVA", 
+    "description": "a basic add-on to notify your stats from Test4Theory",
+    "preferences": [{
+        "name": "BoincId",
+        "title": "T4T BOINC ID",
+        "description": "Your Test4Theory BOINC ID",
+        "type": "string",
+        "value": "empty"
+        },
+        {
+        "name": "PollInterval",
+        "title": "Poll Interval (in hours)",
+        "description": "How often should we poll T4T?",
+        "type": "integer",
+        "value": 5
+        }]
+}
