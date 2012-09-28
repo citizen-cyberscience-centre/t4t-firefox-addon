@@ -1,7 +1,7 @@
 {
     "name": "t4t-extension", 
     "license": "GPLv3", 
-    "author": "Citizen Cyberscience Centre (http://www.citizencyberscience.net/)", 
+    "author": "Citizen Cyberscience Centre", 
     "version": "0.1", 
     "contributors": ["Daniel Lombraña González"],
     "fullName": "Test4Theory Stats Checker", 
