@@ -17,7 +17,7 @@
         },
         {
         "name": "PollInterval",
-        "title": "Poll Interval (in hours)",
+        "title": "Poll Interval (in minutes)",
         "description": "How often should we poll T4T?",
         "type": "integer",
         "value": 5
